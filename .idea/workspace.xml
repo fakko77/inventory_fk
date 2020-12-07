@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -23,8 +24,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/inventory_fk_project/app_inventory_fk/static/app_inventory_fk/css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\css" />
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,5 +47,11 @@
       <updated>1607326621965</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2636" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607329631503">
+      <screen x="1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="2636" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607329631503" />
   </component>
 </project>
