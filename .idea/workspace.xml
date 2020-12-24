@@ -29,12 +29,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Nutella-p8" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\css" />
       <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\management\commands\doc" />
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk" />
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\management\commands" />
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk" />
+      <recent name="C:\Users\Morgan\Documents\repo\inventory_fk\inventory_fk_project\app_inventory_fk\static\app_inventory_fk\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,9 +57,32 @@
       <screen x="1920" y="5" width="1920" height="1040" />
     </state>
     <state x="2636" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607329631503" />
-    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1607503457986">
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1608715728006">
       <screen x="1920" y="5" width="1920" height="1040" />
     </state>
-    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607503457986" />
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1040/1920.5.1920.1040/3840.54.1280.984@1920.5.1920.1040" timestamp="1608715728006" />
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607936963836" />
+    <state width="552" height="446" key="SwitcherDM" timestamp="1607518114986">
+      <screen x="1920" y="5" width="1920" height="1040" />
+    </state>
+    <state width="552" height="446" key="SwitcherDM/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607518114986" />
+    <state x="2231" y="-10" width="958" height="722" maximized="true" key="dock-window-1" timestamp="1607937720134">
+      <screen x="1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="2374" y="461" width="1296" height="724" key="dock-window-1/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607507164787" />
+    <state x="2231" y="-10" width="958" height="722" maximized="true" key="dock-window-1/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@3840.54.1280.984" timestamp="1607937720134" />
+    <state x="645" y="0" width="958" height="723" maximized="true" key="dock-window-2" timestamp="1607937720134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="0" width="958" height="723" maximized="true" key="dock-window-2/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@3840.54.1280.984" timestamp="1607937720134" />
+    <state x="3413" y="46" width="1598" height="779" key="dock-window-3" timestamp="1608534236530">
+      <screen x="3840" y="54" width="1280" height="984" />
+    </state>
+    <state x="3413" y="46" width="1598" height="779" key="dock-window-3/0.0.1920.1040/1920.5.1920.1040/3840.54.1280.984@0.0.1920.1040" timestamp="1608534236530" />
+    <state x="303" y="22" width="1598" height="779" key="dock-window-3/0.0.1920.1040/3840.54.1280.984/1920.5.1920.1040@1920.5.1920.1040" timestamp="1607939027752" />
+    <state x="3840" y="54" width="1296" height="779" key="dock-window-4" timestamp="1608716284849">
+      <screen x="3840" y="54" width="1280" height="984" />
+    </state>
+    <state x="3840" y="54" width="1296" height="779" key="dock-window-4/0.0.1920.1040/1920.5.1920.1040/3840.54.1280.984@1920.5.1920.1040" timestamp="1608716284849" />
   </component>
 </project>

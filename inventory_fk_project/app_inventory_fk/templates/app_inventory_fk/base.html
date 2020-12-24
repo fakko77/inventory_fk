@@ -27,11 +27,18 @@
      <!--   <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>-->
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="index3.html" class="nav-link">Accueil</a>
+        <a href="{% url 'index' %}" class="nav-link">Accueil</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Ajout d'Item</a>
+        <a href="" class="nav-link">Ajout d'Item</a>
       </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="{% url 'setting' %}" class="nav-link"><i class="fas fa-cogs"></i></a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="{% url 'logout' %}" class="nav-link"><i class="fas fa-sign-out-alt"></i></a>
+      </li>
+
     </ul>
 
     <!-- SEARCH FORM -->
@@ -163,7 +170,7 @@
 
         </div>
         <div class="info">
-          <a href="#" class="d-block">NAME USER</a>
+          <a href="#" class="d-block">{{request.user.username|upper}}</a>
         </div>
       </div>
 

@@ -1,0 +1,33 @@
+{% extends 'app_inventory_fk/base.html' %}
+
+{% block content %}
+<div class="center">
+
+
+    <div class="general">
+
+        <div class="col0">
+            <h4> Marques: </h4>
+
+              <div id="produit_sub">
+                            {% for brand in brand %}
+                            <span class="sub-obj">
+                            <span style="display:flex; justify-content">
+                               <a href="{{brand.url}}"> <img  title="{{brand.name}}" class="logo" src="{{ brand.logo_img_url }}" alt="{{ brand.name }}"  > </a>
+                            </span>
+
+                                 </span>
+                            {% endfor %}
+                    </div>
+
+
+        </div>
+        <div class="col1">
+            <H4>EDIT</H4>
+        </div>
+
+
+
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,9 @@
+hp	https://www8.hp.com/fr/fr/home.html	https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg
+dell	https://www.dell.com/fr-fr	https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg
+nec 	https://www.sharpnecdisplays.eu/p/fr/fr/home.xhtml	https://upload.wikimedia.org/wikipedia/commons/9/96/NEC_logo.svg
+acer	https://www.acer.com/ac/fr/FR/content/home	https://upload.wikimedia.org/wikipedia/commons/a/a1/Acer_Logo.svg
+iiyama	https://iiyama.com/fr_fr/	https://upload.wikimedia.org/wikipedia/fr/8/85/Iiyama_Logo.svg
+lexmark	https://www.lexmark.com/fr_fr.html	https://fr.wikipedia.org/wiki/Lexmark#/media/Fichier:LexmarkLogo_RGB_1200.jpg
+samsung	https://www.samsung.com/fr/	https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg
+honeywell	https://www.honeywell.com/fr/fr	https://upload.wikimedia.org/wikipedia/commons/2/2a/Honeywell_logo.svg
+huawei	https://consumer.huawei.com/fr/	https://upload.wikimedia.org/wikipedia/en/0/04/Huawei_Standard_logo.svg

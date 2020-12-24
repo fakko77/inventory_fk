@@ -1,0 +1,6 @@
+ecran
+pc
+client-leger
+imprimente
+serveur
+portable 

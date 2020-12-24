@@ -24,6 +24,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index),
     path('app_inventory_fk_project/', include('app_inventory_fk.urls')),
+    path('accounts/', include('django.contrib.auth.urls')),
 
 ]
 
